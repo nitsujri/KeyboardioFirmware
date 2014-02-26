@@ -1,0 +1,1 @@
+cd layouts && ( find . -type f |xargs -n 1 -I % sh -c 'perl ../tools/generate_keymaps.pl < % > ../layouts-generated/%.h' )

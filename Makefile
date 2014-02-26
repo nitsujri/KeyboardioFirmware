@@ -3,6 +3,7 @@
 BOARD_TAG    = micro
 MONITOR_PORT = /dev/cu.usbmodem*
 ARDUINO_LIBS = 
+ARDUINO_DIR = /Applications/Arduino_1.0.5.app/Contents/Resources/Java
 
 include build/arduino-mk/Arduino.mk
 
