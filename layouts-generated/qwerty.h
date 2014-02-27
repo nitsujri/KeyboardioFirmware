@@ -2,5 +2,5 @@
 	{Key_Backtick, Key_Q, Key_W, Key_E, Key_R, Key_T, Key_skip, Key_skip, Key_Y, Key_U, Key_I, Key_O, Key_P, Key_Equals},\
 	{Key_Esc, Key_A, Key_S, Key_D, Key_F, Key_G, Key_Tab, Key_Return, Key_H, Key_J, Key_K, Key_L, Key_Semicolon, Key_Quote},\
 	{Key_PageDn, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_PageUp, Key_skip, Key_N, Key_M, Key_Comma, Key_Period, Key_Slash, Key_Minus},\
-	{Key_LGUI, Key_Backspace, Key_LShift, Key_LCtrl, Key_KeymapNext_Momentary, Key_skip, Key_skip, Key_skip, Key_skip, Key_KeymapNext_Momentary, Key_RAlt, Key_RShift, Key_Space, Key_RCtrl},\
+	{Key_LShift, Key_Backspace, Key_LGUI, Key_LCtrl, Key_KeymapNext_Momentary, Key_skip, Key_skip, Key_skip, Key_skip, Key_KeymapNext_Momentary, Key_RCtrl, Key_RAlt, Key_Space, Key_RShift},\
 },
