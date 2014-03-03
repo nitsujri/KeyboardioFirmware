@@ -2,5 +2,5 @@
 skip 	F1 F2 F3 F4 F5  skip 	skip   F6 F7 F8 F9 F10 skip  
 Tab 	macroKey1  mouseBtnL mouseBtnM mouseBtnR T  NoKey     NoKey  { } [ ] P =
 Esc  mouseL 	   mouseUp   mouseDn   mouseR 	 G  Tab       Return LArrow DnArrow  UpArrow RArrow ; '
-PageDn  Keymap2  	   mouseBtnL mouseBtnM mouseBtnR B PageUp        Keymap2  |      M , . \  -
-LShift Backspace LGUI LCtrl NoKey skip  skip skip skip  NoKey RCtrl RAlt Space RShift
+LShift  Keymap2  	   mouseBtnL mouseBtnM mouseBtnR B PageDn        PageUp  |      M , . \  -
+LShift Space LGUI RAlt NoKey skip  skip skip skip  NoKey RCtrl LGUI Backspace RShift
